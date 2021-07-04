@@ -1,0 +1,34 @@
+{
+    "name": "codeproduce",
+    "version": "0.0.1",
+    "description": "RainDevelopments'a ait rastgele şifre üretme modülüdür.",
+    "main": "main.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha",
+        "lint": "eslint src --fix",
+        "start": "node main.js"
+    },
+    "types": "types/index.d.ts",
+    "keywords": [
+        "codeproduce",
+        "rain",
+        "Code Produce",
+        "Random Code",
+        "random string"
+    ],
+    "author": "Hüseyin Konak",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HuseyinKonak/codeproduce.git"
+    },
+    "dependencies": {},
+    "bugs": {
+        "url": "https://github.com/HuseyinKonak/codeproduce/issues"
+    },
+    "homepage": "https://github.com/HuseyinKonak/codeproduce#readme",
+    "devDependencies": {}
+}
