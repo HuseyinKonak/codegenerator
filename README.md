@@ -61,5 +61,3 @@ code.create(5, '0a');
 code.create(11, 'Aa0#');
 // > 1adf32ED#-2
 ```
-
-[Discord adresimiz](https://discord.gg/H983Ft6Rwc)
